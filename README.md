@@ -44,4 +44,4 @@ Overall, improving early identification of disengaged students and strengthening
 ## Preview
 https://github.com/emmanuelayuba246-sudo/Education-Technology/blob/main/Dashboard.png
 
-<Click the link to view the dashboard
+<Click the link above to preview the final dashboard
