@@ -38,4 +38,9 @@ Use periodic engagement reports for instructors and administrators to monitor tr
 
 ## Conclusion
 The analysis shows that student engagement is the strongest determinant of academic status and retention outcomes. Active students consistently demonstrate higher academic participation, while at risk and dropped students show significantly lower engagement across all key metrics. Although student status is nearly evenly distributed, behavioral patterns clearly distinguish successful learners from those at risk of disengagement. This indicates that dropout is not driven by group size but by sustained levels of interaction with the learning platform.
+
 Overall, improving early identification of disengaged students and strengthening engagement strategies will be critical to reducing dropout rates and improving student success.
+
+## Preview
+https://github.com/emmanuelayuba246-sudo/Education-Technology/blob/main/Dashboard.png
+Click the link to view the dashboard
